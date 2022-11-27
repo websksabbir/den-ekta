@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(107, 77, 37);
+}
+
+h1 {
+    color: rgb(0, 10, 99);
+    text-align: center;
+    color: aliceblue;
+   
+}
+div{
+    background-color: bisque;
+    text-align: center;
+    width: 300px; 
+    margin-left: 190px;
+    padding: 40px;
+
+
+}
+    
